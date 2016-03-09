@@ -40,6 +40,6 @@
 		</form:select>
 		<form:errors path="currency" cssclass="error"></form:errors></div>
 
-		<input type="submit" value="Submit" name="submitLogin" />
+		<input type="submit" value="Submit" class="btn btn-primary"  name="submitLogin" />
 	</form:form>
 </ct:page>
